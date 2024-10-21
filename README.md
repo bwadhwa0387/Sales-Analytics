@@ -36,3 +36,5 @@ Analyzed the sales data to uncover key insights, such as regional performance an
 * MySQL
 ## Conclusion
 The project successfully addresses ATLIQ Software's sales reporting challenges. The Power BI dashboard now provides Bhavin Patel and his team with real-time, actionable insights, improving decision-making. Automated processes have saved significant time for analysts, enhancing data reliability and transparency.
+## Dashboard
+![Sales Dashboard](https://github.com/bwadhwa0387/Sales-Analytics/raw/main/Sales_Dashboard_1.png)
